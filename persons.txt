@@ -1,0 +1,3 @@
+ali 20
+maram 42
+malk 23
